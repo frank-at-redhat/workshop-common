@@ -1,3 +1,4 @@
 # The workshops that use workshop-common, one repo name per line (same owner as this repo).
 # Publish UI bundle rebuilds each one's site after every merge here.
 infosec-sidecar-workshop
+additional-networks-workshop

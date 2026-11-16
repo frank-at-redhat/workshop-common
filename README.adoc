@@ -5,6 +5,7 @@ The site look and build workflows shared by the OpenShift workshops:
 * `openshift-101-workshop` (OpenShift 101)
 * `openshift-102-workshop` (OpenShift 102)
 * `openshift-103-workshop` (OpenShift 103: ROSA and ARO)
+* `additional-networks-workshop` (OpenShift Additional Networks)
 
 All of them share one layout (see <<layout>>) and release the same way (see <<releases>>).
 
