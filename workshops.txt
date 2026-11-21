@@ -2,3 +2,4 @@
 # Publish UI bundle rebuilds each one's site after every merge here.
 infosec-sidecar-workshop
 additional-networks-workshop
+java-vpa-workshop
